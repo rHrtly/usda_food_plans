@@ -3,8 +3,7 @@
   1.  Source: United States Department of Agriculture (USDA), Food and
       Nutrition Service (FNS), Center for Nutrition Policy and Promotion
   2.  USDA Food Plans: Cost of Food Reports, monthly 1994-2020;
-      https://www.fns.usda.gov/cnpp/usda-food-plans-cost-food-reports-monthl
-      > y-reports.
+      https://www.fns.usda.gov/cnpp/usda-food-plans-cost-food-reports-monthly-reports.
   3.  Family Economics Review, quarterly 1965 to 1994.
   4.  "The Food Plans represent a nutritious diet at four different cost
       levels. The nutritional bases of the Food Plans are the 1997-2005
@@ -16,8 +15,8 @@
       Food Plans, see Thrifty Food Plan, 2006 (2007) and The Low-Cost,
       Moderate-Cost, and Liberal Food Plans, 2007 (2007). All four Food
       Plans are based on 2001-02 data and updated to current dollars by
-      using the Consumer Price Index for specific food items." [USDA-FNS
-      site, updated 09/23/2020; acessed 12/04/2020].
+      using the Consumer Price Index for specific food items." (USDA-FNS
+      site, updated 09/23/2020; acessed 12/04/2020).
   5.  Accessed/organized by Robert Paul Hartley, Kevin Montiel, Jania
       Stewart-James, and Lauren Toppenberg (2020).
   6.  Yearly values are constructed by monthly values (rounded to the
@@ -39,4 +38,4 @@
       state by year.  Similarly, other food plan costs are assumed to be
       proportional to the observed Thrifty Food Plan according to the same
       national ratio by year.
- 11.  8 Dec 2020 15:55 [last modified].
+ 11.  8 Dec 2020 15:55 (last modified).
